@@ -897,3 +897,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.05-19.10.44:425][560]LogSavePackage: Moving 'G:/Unreal Projects/NetworkingPractice/Saved/FirstPersonCharacter194D3D7047F38A7017C977A745F1BC8D.tmp' to 'G:/Unreal Projects/NetworkingPractice/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
 [2021.02.05-19.10.44:435][560]AssetCheck: New page: Asset Save: FirstPersonCharacter
 [2021.02.05-19.10.44:435][560]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.02.05-21.04.14:230][803]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{30c80a75-2b12-4fbc-8c88-d5ce1101be15}.
+[2021.02.05-21.04.14:230][803]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.05-21.04.14:249][803]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.05-21.04.14:249][803]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-01.34.49:426][245]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c62649ed-8e3c-47cf-835e-3c294a9f6006}.
+[2021.02.06-01.34.49:426][245]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.06-01.34.49:441][245]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-01.34.49:441][245]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.45.22:185][839]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{30c80a75-2b12-4fbc-8c88-d5ce1101be15}.
+[2021.02.06-02.45.22:185][839]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.06-02.45.22:200][839]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.45.22:200][839]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-02.45.24:540][846]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c62649ed-8e3c-47cf-835e-3c294a9f6006}.
+[2021.02.06-02.45.24:540][846]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.06-02.45.24:555][846]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-02.45.24:555][846]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-03.34.51:622][719]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{30c80a75-2b12-4fbc-8c88-d5ce1101be15}.
+[2021.02.06-03.34.51:622][719]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.06-03.34.51:637][719]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-03.34.51:637][719]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-03.40.37:020][755]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c62649ed-8e3c-47cf-835e-3c294a9f6006}.
+[2021.02.06-03.40.37:020][755]LogAudioMixer: Resetting audio stream to device id 
+[2021.02.06-03.40.37:035][755]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-03.40.37:035][755]LogAudioMixer: Display: 1: FrontRight
